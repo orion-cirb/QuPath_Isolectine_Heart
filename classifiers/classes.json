@@ -1,0 +1,19 @@
+{
+  "pathClasses": [
+    {
+      "name": "Unclassified"
+    },
+    {
+      "name": "Ignore*",
+      "color": -5026534
+    },
+    {
+      "name": "Vessel",
+      "color": -16680943
+    },
+    {
+      "name": "Holes",
+      "color": -6697780
+    }
+  ]
+}
