@@ -7,7 +7,7 @@
 
 ### Images description
 
-2D images taken with the Axioscan
+2D images of pig heart sections taken with the Axioscan
 
 *Cy3* channel: isolectine (vessels)
 
