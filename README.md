@@ -9,7 +9,7 @@
 
 2D images taken with the Axioscan
 
-1 channel: *Cy3:* isolectine (vessels)
+1 channel *Cy3:* isolectine (vessels)
 
 ### Plugin description
 
