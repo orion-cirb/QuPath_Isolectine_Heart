@@ -18,7 +18,7 @@
 
 ### Dependencies
 
-* **QuPath** pixel classifier called *vesselsClassifier.json*
+* **QuPath pixel classifier** named *vesselsClassifier.json*
 
 ### Version history
 
